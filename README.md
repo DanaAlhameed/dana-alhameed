@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dana-hm
+- 👋 Hi, I’m Dana Alhameed
 - 👀 I’m interested in digital art - photography and front-end development.
-- 🌱 I’m currently learning html - css and javascript.
 - 💞️ I’m looking to collaborate on front-end development .
 - 📫 How to reach me dana.alhameed@gmail.com
 
